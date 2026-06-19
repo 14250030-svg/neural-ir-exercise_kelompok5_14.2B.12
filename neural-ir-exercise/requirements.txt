@@ -1,0 +1,14 @@
+torch>=2.0.0
+torchvision
+torchaudio
+transformers>=4.30.0
+datasets>=2.10.0
+pandas
+numpy
+scikit-learn
+tqdm
+matplotlib
+seaborn
+jupyter
+ipywidgets
+requests
